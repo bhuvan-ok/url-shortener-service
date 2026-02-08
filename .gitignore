@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# environment variables (secrets)
+.env
+backend/.env
+frontend/.env
+
+# build outputs
+dist/
+build/
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
